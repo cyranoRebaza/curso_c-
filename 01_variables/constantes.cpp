@@ -15,7 +15,7 @@ int main()
      */
 
     // declaro las variables
-    const string nombre = "Juan"; // declaro e inicializo la constante
+    const string nombre = "Juan"; // declaro e inicializo la constante en la misma linea
     int edad;
     double salario;
 
