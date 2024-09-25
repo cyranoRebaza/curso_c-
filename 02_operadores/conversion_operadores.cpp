@@ -21,7 +21,7 @@ int main(){
     resultado1 = a + b;
     resultado2 = a + c;
 
-    promedio = (a + b + c ) / 3;
+    promedio = (a + b + c ) / 3; 
 
 
     cout << "el resultado es: " << resultado1 << " de tipo de dato: " << typeid(resultado1).name() << endl;

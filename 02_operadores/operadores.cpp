@@ -7,8 +7,8 @@ int main(){
         OPERADORES:
             - ASIGNACION: igual(=), mas igual(+=), menos igual(-=), por igual(*=), dividido igual(/=)
             - ARITMETICOS:suma, resta(-), multiplicacion(*), division(/), modulo(%), incremento sufijo(a++), decremento sufijo(a--), incremento prefijo(++a), decremento prefijo(--a)
-            - COMPARACION:
-            - LOGICOS:
+            - COMPARACION: mayor que(>), menor que(<), mayor o igual que(>=), menor o igual que(<=), igual que(==), diferente que(!=)
+            - LOGICOS: Y logico(&&), O logico(||), negacion(!)
             - NIVEL BIT    
     */
 
